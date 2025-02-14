@@ -112,7 +112,6 @@ data/
 fig*
 tab*
 val*
-*ipynb
 temp*
 
 # shell scripts
